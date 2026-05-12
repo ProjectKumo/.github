@@ -2,7 +2,7 @@
 
 **Building the next generation app for human and agent interaction.**
 
-![](assets/kumo_banner.png)
+![](../assets/kumo_banner.png)
 
 [Website](https://usekumo.app) · [App](https://github.com/ProjectKumo/KumoApp) · [Docs](https://github.com/ProjectKumo/Kumo-docs) · [Issues](https://github.com/ProjectKumo/KumoApp/issues)
 
